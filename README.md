@@ -3,6 +3,7 @@ API CRUD RESTFul para persistência de dados.
 
 
 ### Funcionalidades:
+- Válidar manipulação dos dados atráves de uma HASH gerada para cada entidade.
 - Consulta de entidades em banco NoSQL.
 - Inserção de entidades em banco NoSQL.
 - Consulta de dados/objetos em banco NoSQL.
